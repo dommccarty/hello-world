@@ -1,2 +1,2 @@
 # hello-world
-A broad greeting
+Brushing up on GitHub skillz
